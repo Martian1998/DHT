@@ -20,4 +20,4 @@ Client GUI looks like this:
 
 ![Image description](https://github.com/Martian1998/DHT/blob/master/dht.png)
 
-**Disclaimer: This code is written for python3
+*Disclaimer: This code is written for python3*
